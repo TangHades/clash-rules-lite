@@ -230,4 +230,4 @@ payload:
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,ahhhhfs.com
-  - DOMAIN-SUFFIX,pikpak.com
+  - DOMAIN-SUFFIX,mypikpak.com
