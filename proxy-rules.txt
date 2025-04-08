@@ -231,3 +231,4 @@ payload:
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,www.ahhhhfs.com
   - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,x.com
