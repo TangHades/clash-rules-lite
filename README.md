@@ -103,29 +103,37 @@ proxy-groups:
     <b>- { name: '🐟 漏网之鱼', type: select, proxies: ['🔰 节点选择'] }</b>
     <b>- ...</b>
 rules:
-  - RULE-SET,Backlist,🛑 全球拦截
-  - RULE-SET,Proxy,🔰 节点选择
-  - RULE-SET,Microsoft,Ⓜ️ 微软服务
-  - GEOIP,CN,🎯 全球直连
-  - MATCH,🐟 漏网之鱼
+  - RULE-SET,Backlist,REJECT
+  - RULE-SET,Proxy,Proxies
+  - RULE-SET,Microsoft,Proxies
+  - RULE-SET,Direct,DIRECT
+  - GEOIP,CN,DIRECT
+  - GEOIP,LAN,DIRECT
+  - MATCH,Proxies
 rule-providers:
   Proxy:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/proxy-rules.txt"
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/proxy-rules.txt"
     path: ./providers/rule-proxy.yaml
     interval: 86400
   Microsoft:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/microsoft-rules.txt"
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/microsoft-rules.txt"
     path: ./providers/rule-microsoft.yaml
     interval: 86400
   Backlist:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/blacklist-rules.txt"
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/blacklist-rules.txt"
     path: ./providers/rule-backlist.yaml
+    interval: 86400 
+  Direct:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/direct-rules.txt"
+    path: ./providers/rule-direct.yaml
     interval: 86400 
 
 </code></pre>
