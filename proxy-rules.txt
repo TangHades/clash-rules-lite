@@ -234,3 +234,4 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,unlock-protocol.com
