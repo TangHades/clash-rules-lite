@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,grass.io
   - DOMAIN-SUFFIX,getgrass.io
   - DOMAIN-SUFFIX,api.bigdatacloud.net
+  - DOMAIN-SUFFIX,dashboard.solixdepin.net
