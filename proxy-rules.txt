@@ -236,3 +236,4 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,unlock-protocol.com
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,asmrxz.top
