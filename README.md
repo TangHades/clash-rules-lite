@@ -109,7 +109,6 @@ rules:
   - RULE-SET,Direct,DIRECT
   - GEOIP,CN,DIRECT
   - GEOIP,LAN,DIRECT
-  - MATCH,Proxies
 rule-providers:
   Proxy:
     type: http
