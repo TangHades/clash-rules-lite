@@ -166,7 +166,6 @@ rules:
   - RULE-SET,Proxy,🔰 节点选择
   - RULE-SET,Microsoft,Ⓜ️ 微软服务
   - GEOIP,CN,🎯 全球直连
-  - MATCH,🐟 漏网之鱼
 rule-providers:
   Proxy:
     type: http
