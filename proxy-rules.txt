@@ -237,3 +237,4 @@ payload:
   - DOMAIN-SUFFIX,unlock-protocol.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,asmrxz.top
+  - DOMAIN-SUFFIX,chat.openai.com
