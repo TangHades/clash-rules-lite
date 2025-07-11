@@ -238,3 +238,4 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,asmrxz.top
   - DOMAIN-SUFFIX,chat.openai.com
+  - DOMAIN-SUFFIX,pregzdata1.233netpre.net
