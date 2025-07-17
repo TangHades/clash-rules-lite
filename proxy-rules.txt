@@ -240,3 +240,4 @@ payload:
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,pregzdata1.233netpre.net
   - DOMAIN-SUFFIX,t.me
+  - DOMAIN,pregzdata1.233netpre.net
