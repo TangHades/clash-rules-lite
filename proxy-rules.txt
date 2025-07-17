@@ -239,3 +239,4 @@ payload:
   - DOMAIN-SUFFIX,asmrxz.top
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,pregzdata1.233netpre.net
+  - DOMAIN-SUFFIX,t.me
