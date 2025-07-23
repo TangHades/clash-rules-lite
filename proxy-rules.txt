@@ -241,3 +241,4 @@ payload:
   - DOMAIN-SUFFIX,t.me
   - IP-CIDR,91.108.0.0/16,no-resolve
   - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,tradingview.com
