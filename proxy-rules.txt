@@ -243,3 +243,4 @@ payload:
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,twimg.com
