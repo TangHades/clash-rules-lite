@@ -244,3 +244,4 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,wtf.academy
