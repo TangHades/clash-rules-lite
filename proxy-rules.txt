@@ -245,3 +245,4 @@ payload:
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,wtf.academy
+  - DOMAIN-SUFFIX,github.com
