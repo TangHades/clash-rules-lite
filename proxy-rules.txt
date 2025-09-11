@@ -246,3 +246,4 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,wtf.academy
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,z-library.sk
