@@ -248,4 +248,5 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,nof1.ai
 
