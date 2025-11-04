@@ -238,4 +238,37 @@ https://cdn.jsdelivr.net/xxx/xxx...
 https://purge.jsdelivr.net/xxx/xxx...
 ```
 然后访问这个文件新 URL 就会提示你刷新成功！
-
+```
+rules:
+  - RULE-SET,Backlist,REJECT
+  - RULE-SET,Proxy,Proxies
+  - RULE-SET,Microsoft,Proxies
+  - RULE-SET,Direct,DIRECT
+  - GEOIP,CN,DIRECT
+  - GEOIP,LAN,DIRECT
+  - MATCH,DIRECT
+rule-providers:
+  Proxy:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/proxy-rules.txt"
+    path: ./providers/rule-proxy.yaml
+    interval: 86400
+  Microsoft:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/microsoft-rules.txt"
+    path: ./providers/rule-microsoft.yaml
+    interval: 86400
+  Backlist:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/blacklist-rules.txt"
+    path: ./providers/rule-backlist.yaml
+    interval: 86400 
+  Direct:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/TangHades/clash-rules-lite@release/direct-rules.txt"
+    path: ./providers/rule-direct.yaml
+    interval: 86400
