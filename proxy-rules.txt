@@ -249,4 +249,6 @@ payload:
   - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,nof1.ai
+  - DOMAIN-SUFFIX,medium.com
+
 
