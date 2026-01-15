@@ -250,5 +250,4 @@ payload:
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,nof1.ai
   - DOMAIN-SUFFIX,medium.com
-
-
+  - DOMAIN-SUFFIX,telegram.org
