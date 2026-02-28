@@ -252,4 +252,6 @@ payload:
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,telegram.org
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,binance.com
+
 
