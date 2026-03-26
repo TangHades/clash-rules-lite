@@ -254,4 +254,5 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,binance.com
   - DOMAIN-KEYWORD,grok.com
+  - DOMAIN-SUFFIX,polymarket.com
 
