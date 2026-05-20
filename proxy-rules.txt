@@ -257,4 +257,5 @@ payload:
   - DOMAIN-SUFFIX,polymarket.com
   - IP-CIDR,113.108.0.63:443
   - DOMAIN-SUFFIX,antpool.com
+  - IP-CIDR,45.141.170.35
 
