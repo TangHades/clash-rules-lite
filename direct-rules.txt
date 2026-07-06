@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,getgrass.io
   - DOMAIN-SUFFIX,api.bigdatacloud.net
   - DOMAIN-SUFFIX,dashboard.solixdepin.net
+  - DOMAIN-SUFFIX,tencent.com
