@@ -255,7 +255,7 @@ payload:
   - DOMAIN-KEYWORD,binance.com
   - DOMAIN-KEYWORD,grok.com
   - DOMAIN-SUFFIX,polymarket.com
-  - IP-CIDR,113.108.0.63:443
+  - IP-CIDR,113.108.0.63
   - DOMAIN-SUFFIX,antpool.com
   - IP-CIDR,45.141.170.35
   - DOMAIN-SUFFIX,listenhub.ai
