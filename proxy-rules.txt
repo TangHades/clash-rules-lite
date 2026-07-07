@@ -255,6 +255,6 @@ payload:
   - DOMAIN-SUFFIX,antpool.com
   - IP-CIDR,45.141.170.35
   - DOMAIN-SUFFIX,listenhub.ai
-  - DOMAIN-KEYWORD,.t.co
+  - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,binance.com
