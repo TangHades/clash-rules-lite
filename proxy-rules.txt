@@ -24,8 +24,6 @@ payload:
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spoti.fi
-  - DOMAIN-KEYWORD,spotify.com
-  - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,himalaya.com
   - DOMAIN-SUFFIX,overcast.fm
@@ -214,7 +212,6 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-SUFFIX,tver.jp
-  - DOMAIN,edge.api.brightcove.com
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN,api.viu.now.com
@@ -237,7 +234,6 @@ payload:
   - DOMAIN-SUFFIX,unlock-protocol.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,asmrxz.top
-  - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-KEYWORD,t.me
   - IP-CIDR,91.108.0.0/16,no-resolve
   - DOMAIN-SUFFIX,coinmarketcap.com
