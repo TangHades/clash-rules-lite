@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,githubusercontent.com
@@ -210,7 +210,6 @@ payload:
   - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-SUFFIX,tver.jp
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,viu.tv
@@ -234,7 +233,7 @@ payload:
   - DOMAIN-SUFFIX,unlock-protocol.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,asmrxz.top
-  - DOMAIN-KEYWORD,t.me
+  - DOMAIN-SUFFIX,t.me
   - IP-CIDR,91.108.0.0/16,no-resolve
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,tradingview.com
@@ -247,9 +246,8 @@ payload:
   - DOMAIN-SUFFIX,nof1.ai
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,binance.com
-  - DOMAIN-KEYWORD,grok.com
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,polymarket.com
   - IP-CIDR,113.108.0.63
   - DOMAIN-SUFFIX,antpool.com
@@ -257,4 +255,3 @@ payload:
   - DOMAIN-SUFFIX,listenhub.ai
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,binance.com
