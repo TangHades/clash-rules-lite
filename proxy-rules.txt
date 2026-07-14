@@ -246,3 +246,4 @@ payload:
   - DOMAIN-SUFFIX,listenhub.ai
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,telegram.me
