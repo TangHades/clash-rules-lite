@@ -247,3 +247,4 @@ payload:
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,hyperliquid.xyz
